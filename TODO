@@ -1,0 +1,15 @@
+## get method
+get: actor 
+get: movie
+
+## post method
+post : movie
+post: actor 
+
+## patch method
+patch: movie
+patch: actor
+
+## delete method 
+delete: actor
+delete: movie 
