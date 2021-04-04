@@ -1,4 +1,4 @@
-# Casting agency By zZaid alwawi 
+# Casting agency By Zaid alwawi 
 
 The motivation for this project is to create my capstone project for Udacity's Fullstack Nanodegree program.
 It models a company that is responsible for creating movies and managing and assigning actors to those movies.
